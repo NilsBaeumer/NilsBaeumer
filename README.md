@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NilsBaeumer
-- 👀 I’m interested in ...
+- 👋 Hi, Im Nils
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me baeumer.nils@icloud.com
 
